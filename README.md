@@ -63,14 +63,11 @@
 
 ###
 
-<img align="left" height="250" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3dqazU0Z3JmeWsyNndscXd6OXpxMmR0NWpqcTFycjF6azRuOWl1dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7bug2wkdhpf7kbFS/giphy.webp"  />
-
-###
-
 <div align="center">
-  <img height="250" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHRrZzhmcWo5cmQwMTEzYWpwcHZrYW5oYmtuYmhsb3pqaGVvdnN0cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SYKjUPtI1gjSTqSf38/giphy.webp"  />
+  <img height="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3dqazU0Z3JmeWsyNndscXd6OXpxMmR0NWpqcTFycjF6azRuOWl1dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7bug2wkdhpf7kbFS/giphy.webp"  />
 </div>
 
+###
 ###
 
 <!--
