@@ -1,4 +1,4 @@
-<h1 align="center">Linguagem em processo de aprendizados</h1>
+<h1 align="center">Linguagem de processo de aprendizagem/h1>
 
 ###
 
